@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518715479465",
+    "project_id": "fakebook-4d415",
+    "storage_bucket": "fakebook-4d415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518715479465:android:79028a121a7f980d00e0b8",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjk1m_-zqb6sRsC-wnqi7hNC4UYqHCBvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
